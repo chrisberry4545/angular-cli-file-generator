@@ -1,0 +1,17 @@
+{
+  "name": "shell-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Berry <chrisberry4545@googlemail.com> (http://chrisbdev.com)",
+  "license": "ISC",
+  "bin": {
+    "snippet": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.10.0"
+  }
+}
