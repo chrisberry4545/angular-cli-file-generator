@@ -20,7 +20,7 @@ Replace {angularType} with the angular type the class will be e.g:
 Outputs the required files for the relevent class type in a folder with the given className.
 
 E.g
-    - snippet my-home-page -t component
+    - angular-gen my-home-page -t component
 
 Will create a new folder my-home-page, which contains 5 files
     my-home-page.component.scss

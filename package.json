@@ -9,7 +9,7 @@
   "author": "Chris Berry <chrisberry4545@googlemail.com> (http://chrisbdev.com)",
   "license": "ISC",
   "bin": {
-    "snippet": "./index.js"
+    "angular-gen": "./index.js"
   },
   "dependencies": {
     "commander": "^2.10.0"
