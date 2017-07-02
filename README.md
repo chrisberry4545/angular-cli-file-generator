@@ -6,7 +6,7 @@ Generates required files for a class for use in an angular app.
 
 To run the app
 
-    - snippet {className} -t {angularType}
+    - angular-gen {className} -t {angularType}
 
 Replace {className} with the name of the file you want to create, using dashes between words e.g my-home-page.
 
