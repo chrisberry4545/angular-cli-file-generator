@@ -17,7 +17,7 @@ program
     .option('-t, --type <type>', 'Set type - c, s')
     .action(function(className) {
         let createdFolder = false;
-        readFiles(fileToGenerateFolder + program.type + '/', (fileName, content) => {
+        readFiles(__dirname + '/' + fileToGenerateFolder + program.type + '/', (fileName, content) => {
             if (!createdFolder) {
                 createFolder(className);
                 createdFolder = true;
