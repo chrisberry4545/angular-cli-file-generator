@@ -2,4 +2,4 @@ node_modules
 .rpt2_cache/*
 npm-debug*.log
 .DS_Store
-packge-lock.json
+package-lock.json

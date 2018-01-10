@@ -7,5 +7,4 @@ import { Component } from '@angular/core';
     ],
     templateUrl: './chrisbnametosubhere.component.template.pug',
 })
-export default class chrisbnametosubhereCamelCaseComponent {
-}
+export class chrisbnametosubhereCamelCaseComponent {}

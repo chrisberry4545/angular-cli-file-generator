@@ -12,4 +12,4 @@ import chrisbnametosubhereCamelCaseComponent from './chrisbnametosubhere.compone
         chrisbnametosubhereCamelCaseComponent,
     ],
 })
-export default class chrisbnametosubhereCamelCaseModule { }
+export class chrisbnametosubhereCamelCaseModule { }
