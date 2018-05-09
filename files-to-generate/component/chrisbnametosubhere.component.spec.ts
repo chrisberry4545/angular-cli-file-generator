@@ -1,4 +1,15 @@
 import 'reflect-metadata';
-test('', () => {
-    expect(1).toBe(1);
+
+import {
+    chrisbnametosubhereCamelCaseComponent,
+} from './chrisbnametosubhere.component';
+
+const initchrisbnametosubhereCamelCaseComponent = () => {
+    return new chrisbnametosubhereCamelCaseComponent();
+};
+
+describe('', () => {
+    test('', () => {
+        expect(1).toBe(1);
+    });
 });
